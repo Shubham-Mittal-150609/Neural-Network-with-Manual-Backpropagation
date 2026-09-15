@@ -46,5 +46,3 @@ should decrease while classification accuracy becomes high.
 1.5 train.py trains on a small real Iris classification dataset and prints decreasing loss.
 1.6 `WRITEUP.md` documents the main debugging/gradient checks.
 
-The assignment explicitly says incomplete submissions are acceptable and that
-understanding, experiments, debugging, and learning matter more than a perfect result.
