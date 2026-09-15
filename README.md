@@ -43,7 +43,7 @@ should decrease while classification accuracy becomes high.
 1.2 `forward()` implements linear layers and activations.
 1.3 `backward()` derives gradients manually.
 1.4 `gradient_check.py` compares with numerical gradients and `torch.autograd`.
-1.5 `train.py` trains on XOR and prints decreasing loss.
+1.5 train.py trains on a small real Iris classification dataset and prints decreasing loss.
 1.6 `WRITEUP.md` documents the main debugging/gradient checks.
 
 The assignment explicitly says incomplete submissions are acceptable and that
